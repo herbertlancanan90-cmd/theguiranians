@@ -1,0 +1,10 @@
+{
+  "name": "The Guiranians - Guirang Elementary School",
+  "short_name": "The Guiranians",
+  "description": "Student publication of Guirang Elementary School",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f5f8ff",
+  "theme_color": "#102d91",
+  "icons": [{"src":"assets/guiranians-logo.png","sizes":"any","type":"image/png","purpose":"any maskable"}]
+}
